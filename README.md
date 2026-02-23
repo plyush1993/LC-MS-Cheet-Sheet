@@ -23,4 +23,5 @@
 **Generate Formula based on Monoisotopic Mass:** [ChemCalc](https://www.chemcalc.org/mf-finder?integer=false&ionizations=&maxUnsaturation=999&minUnsaturation=0&nonInteger=false&precision=5000&range=C0-100%20H0-200%20N0-20%20O0-20&targetMass=145.66); [Cheminfo](https://www.cheminfo.org/Spectra/Mass/MF_from_monoisotopic_mass_and_PubChem/index.html)<br/> 
 **Peak Assignment:** [CFM-ID](https://cfmid.wishartlab.com/assign)<br/>
 **Spectra Prediction:** [CFM-ID](https://cfmid.wishartlab.com/predict)<br/> 
-**Identification Tools:** [SIRIUS](https://bio.informatik.uni-jena.de/software/sirius/); [CFM-ID](https://cfmid.wishartlab.com/identify); [Met-Frag](https://msbi.ipb-halle.de/MetFrag/); [MS-Finder](https://systemsomicslab.github.io/compms/msfinder/main.html) 
+**Identification Tools:** [SIRIUS](https://bio.informatik.uni-jena.de/software/sirius/); [CFM-ID](https://cfmid.wishartlab.com/identify); [Met-Frag](https://msbi.ipb-halle.de/MetFrag/); [MS-Finder](https://systemsomicslab.github.io/compms/msfinder/main.html)<br/> 
+**Adducts & Neutral Losses & Contaminants**: [Excel](https://github.com/plyush1993/LC-MS-Cheet-Sheet/blob/main/MS%20contamination%20masses.xls)
