@@ -24,4 +24,5 @@
 **Peak Assignment:** [CFM-ID](https://cfmid.wishartlab.com/assign)<br/>
 **Spectra Prediction:** [CFM-ID](https://cfmid.wishartlab.com/predict)<br/> 
 **Identification Tools:** [SIRIUS](https://bio.informatik.uni-jena.de/software/sirius/); [CFM-ID](https://cfmid.wishartlab.com/identify); [Met-Frag](https://msbi.ipb-halle.de/MetFrag/); [MS-Finder](https://systemsomicslab.github.io/compms/msfinder/main.html)<br/> 
-**Adducts & Neutral Losses & Contaminants**: [Excel](https://github.com/plyush1993/LC-MS-Cheet-Sheet/blob/main/MS%20contamination%20masses.xls)
+**Adducts:** [MetaboCensoR](https://github.com/plyush1993/MetaboCensoR/blob/main/adducts%20(nontarget).csv)<br/>
+**Neutral Loses:** [MetaboCensoR](https://github.com/plyush1993/MetaboCensoR/blob/main/neutral%20loss%20data%20(MS1FA%20%26%20Fiehn).csv)<br/>
