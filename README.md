@@ -19,9 +19,9 @@
 [Metabocano](https://plyush1993.shinyapps.io/metabocano/); [Metaboanalyst](https://www.metaboanalyst.ca/MetaboAnalyst/upload/StatUploadView.xhtml)
 
 ### Other Helpful Tools & Resources for MS:
-**Isotopic Pattern & Exact Mass Calculator:** [EnviPat](https://www.envipat.eawag.ch/index.php); [SisWeb](https://www.sisweb.com/mstools/isotope.html); [SisWeb](https://www.sisweb.com/referenc/tools/exactmass.html); [BMRB](https://bmrb.io/metabolomics/mol_mass.php?formula=C6H12O6&subaction=Natural+Composition&updateIsoComp=1)<br/>
+**Isotopic Pattern & Exact Mass Calculator:** [EnviPat](https://www.envipat.eawag.ch/index.php); [ChemCalc](https://www.chemcalc.org/?ionizations=&mf=); [SisWeb](https://www.sisweb.com/mstools/isotope.html); [SisWeb](https://www.sisweb.com/referenc/tools/exactmass.html); [BMRB](https://bmrb.io/metabolomics/mol_mass.php?formula=C6H12O6&subaction=Natural+Composition&updateIsoComp=1)<br/>
 **Mass Error:** [Warwick](https://warwick.ac.uk/fac/sci/chemistry/research/barrow/barrowgroup/calculators/mass_errors/)<br/>
-**Generate Formula based on Monoisotopic Mass:** [ChemCalc](https://www.chemcalc.org/mf-finder?integer=false&ionizations=&maxUnsaturation=999&minUnsaturation=0&nonInteger=false&precision=5000&range=C0-100%20H0-200%20N0-20%20O0-20&targetMass=145.66); [Cheminfo](https://www.cheminfo.org/Spectra/Mass/MF_from_monoisotopic_mass_and_PubChem/index.html)<br/> 
+**Generate Formula based on Monoisotopic Mass:** [ChemCalc](https://www.chemcalc.org/mf-finder?integer=false&ionizations=&maxUnsaturation=999&minUnsaturation=0&nonInteger=false&precision=5000&range=C0-100%20H0-200%20N0-20%20O0-20&targetMass=); [Cheminfo](https://www.cheminfo.org/Spectra/Mass/MF_from_monoisotopic_mass_and_PubChem/index.html)<br/> 
 **Peak Assignment:** [CFM-ID](https://cfmid.wishartlab.com/assign)<br/>
 **Spectra Prediction:** [CFM-ID](https://cfmid.wishartlab.com/predict)<br/> 
 **Identification Tools:** [*SIRIUS*](https://bio.informatik.uni-jena.de/software/sirius/); [CFM-ID](https://cfmid.wishartlab.com/identify); [Met-Frag](https://msbi.ipb-halle.de/MetFrag/); [*MS-Finder*](https://systemsomicslab.github.io/compms/msfinder/main.html)<br/> 
