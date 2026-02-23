@@ -13,7 +13,7 @@
 [GNPS Fast Search](https://fasst.gnps2.org/fastsearch/); [MetaboAnalyst](https://www.metaboanalyst.ca/MetaboAnalyst/upload/MS2UploadView.xhtml)
 
 ### Libraries:
-[GNPS](https://library.gnps2.org/); [MoNA](https://mona.fiehnlab.ucdavis.edu/spectra/search); [MassBank](https://massbank.eu/MassBank/)
+[GNPS](https://library.gnps2.org/); [MoNA](https://mona.fiehnlab.ucdavis.edu/spectra/search); [MassBank](https://massbank.eu/MassBank/); [HMDB](https://hmdb.ca/spectra/ms/search); [FOODB](https://foodb.ca/spectra/ms/search)
 
 ### Statistics:
 [Metabocano](https://plyush1993.shinyapps.io/metabocano/); [Metaboanalyst](https://www.metaboanalyst.ca/MetaboAnalyst/upload/StatUploadView.xhtml)
