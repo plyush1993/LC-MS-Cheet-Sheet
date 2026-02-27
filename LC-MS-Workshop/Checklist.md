@@ -21,7 +21,7 @@
      - mzMine
      - Filtration (?)
      - SIRIUS
-     - GNPS
+     - GNPS + Cytoscape
 - Statistical Analysis
      - Univariate (MetaboAnalyst, Metabocano)
      - Multivariate (MetaboAnalyst)
