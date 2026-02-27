@@ -5,6 +5,7 @@
 
 ### Raw Data
 - El-Maven for target compound EIC among samples
+- Library Search EIC & Integration
 - Observe MS1/MS2
 - Query for spectra search / *in-silico* prediction
 
