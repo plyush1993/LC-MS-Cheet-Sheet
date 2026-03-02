@@ -15,11 +15,11 @@
 
 ### Downstream Analysis
 - Target Analysis
-     -  El-Maven
-     -  MzMine
+     - El-Maven
+     - MzMine
 - Untargeted Analysis
      - mzMine
-     - Filtration (?)
+     - MetaboCensoR
      - SIRIUS
      - GNPS + Cytoscape
 - Statistical Analysis
