@@ -19,9 +19,11 @@
 ### Statistics:
 [Metabocano](https://plyush1993.shinyapps.io/metabocano/); [Metaboanalyst](https://www.metaboanalyst.ca/MetaboAnalyst/upload/StatUploadView.xhtml)
 
-### Other Helpful Tools & Resources for MS:
+### Peak Table Processing:
 **Filtering:** [MetaboCensoR](https://plyush1993.shinyapps.io/metabocensor/)<br/>
 **Annotation:** [MS1FA](https://ms1fa.helmholtz-hzi.de/)<br/>
+
+### Other Helpful Tools & Resources for MS:
 **Isotopic Pattern & Exact Mass Calculator:** [EnviPat](https://www.envipat.eawag.ch/index.php); [ChemCalc](https://www.chemcalc.org/?ionizations=&mf=); [SisWeb](https://www.sisweb.com/mstools/isotope.html); [SisWeb](https://www.sisweb.com/referenc/tools/exactmass.html); [BMRB](https://bmrb.io/metabolomics/mol_mass.php?formula=C6H12O6&subaction=Natural+Composition&updateIsoComp=1)<br/>
 **Adducts Calculator:** [cdri.res.in](https://plantmetabolome.cdri.res.in/public/frm_AductIonCalc.aspx); [lc-ms.nl](https://www.lc-ms.nl/adductcal.html)<br/>
 **Mass Error:** [Warwick](https://warwick.ac.uk/fac/sci/chemistry/research/barrow/barrowgroup/calculators/mass_errors/)<br/>
