@@ -1,6 +1,6 @@
 # LC-MS-Cheet-Sheet
 > [!NOTE]
-> - Cheet Sheet with Useful links and resources in LC-MS metabolomics<br/>
+> - Cheet Sheet with Useful links and Resources in LC-MS metabolomics<br/>
 > - GUI or CLI Tools in *italic*
 > - Similar Server: [`LC-MS.nl`](https://www.lc-ms.nl/index.html)
 
