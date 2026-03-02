@@ -4,9 +4,6 @@
 > - GUI or CLI Tools in *italic*
 > - Similar Server: [`LC-MS.nl`](https://www.lc-ms.nl/index.html)
 
-### Main Tools:
-[*mzMine*](https://mzio.io/mzmine-news/); [*xcms*](https://www.bioconductor.org/packages/release/bioc/html/xcms.html); [*MS-Dial*](https://systemsomicslab.github.io/compms/msdial/main.html)
-
 ### Prepare Spectra for query:
 [ms_for_sirius](https://plyush1993.shinyapps.io/ms_for_sirius/); [*El-Maven*](https://github.com/ElucidataInc/ElMaven); [*mzMine*](https://mzio.io/mzmine-news/)
 
@@ -18,10 +15,6 @@
 
 ### Statistics:
 [Metabocano](https://plyush1993.shinyapps.io/metabocano/); [Metaboanalyst](https://www.metaboanalyst.ca/MetaboAnalyst/upload/StatUploadView.xhtml)
-
-### Peak Table Processing:
-**Filtering:** [MetaboCensoR](https://plyush1993.shinyapps.io/metabocensor/)<br/>
-**Annotation:** [MS1FA](https://ms1fa.helmholtz-hzi.de/)<br/>
 
 ### Other Helpful Tools & Resources for MS:
 **Isotopic Pattern & Exact Mass Calculator:** [EnviPat](https://www.envipat.eawag.ch/index.php); [ChemCalc](https://www.chemcalc.org/?ionizations=&mf=); [SisWeb](https://www.sisweb.com/mstools/isotope.html); [SisWeb](https://www.sisweb.com/referenc/tools/exactmass.html); [BMRB](https://bmrb.io/metabolomics/mol_mass.php?formula=C6H12O6&subaction=Natural+Composition&updateIsoComp=1)<br/>
