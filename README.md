@@ -5,7 +5,7 @@
 > - Similar Server: [`LC-MS.nl`](https://www.lc-ms.nl/index.html)
 
 ### Prepare Spectra for query:
-[ms_for_sirius](https://plyush1993.shinyapps.io/ms_for_sirius/); [*El-Maven*](https://github.com/ElucidataInc/ElMaven); [*mzMine*](https://mzio.io/mzmine-news/)
+[qry4ms](https://plyush1993.shinyapps.io/qry4ms/); [*El-Maven*](https://github.com/ElucidataInc/ElMaven); [*mzMine*](https://mzio.io/mzmine-news/)
 
 ### Spectral Search:
 [GNPS Fast Search](https://fasst.gnps2.org/fastsearch/); [MetaboAnalyst](https://www.metaboanalyst.ca/MetaboAnalyst/upload/MS2UploadView.xhtml)
