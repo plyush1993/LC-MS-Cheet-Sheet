@@ -7,7 +7,7 @@
 - El-Maven for target compound EIC among samples
 - Library Search EIC & Integration
 - Observe MS1/MS2/rt
-- Query for spectra search / *in-silico* prediction in ms_for_sirius
+- Query for spectra search / *in-silico* prediction in qry4ms
 
 ### Identification
 - Spectral Similarity Search (GNPS, MEtaboAnalyst, etc)
