@@ -24,7 +24,7 @@
 **Peak Assignment:** [`CFM-ID`](https://cfmid.wishartlab.com/assign)<br/>
 **Spectra Prediction:** [`CFM-ID`](https://cfmid.wishartlab.com/predict)<br/> 
 **Identification Tools:** [*`SIRIUS`*](https://bio.informatik.uni-jena.de/software/sirius/); [`CFM-ID`](https://cfmid.wishartlab.com/identify); [`Met-Frag`](https://msbi.ipb-halle.de/MetFrag/); [*`MS-Finder`*](https://systemsomicslab.github.io/compms/msfinder/main.html)<br/> 
-**Adducts:** [nontarget](https://github.com/plyush1993/MetaboCensoR/blob/main/adducts%20(nontarget).csv); [Adducts + MD](https://github.com/plyush1993/LC-MS-Cheet-Sheet/blob/main/Adducts.csv)<br/>
+**Adducts:** [nontarget](https://github.com/plyush1993/MetaboCensoR/blob/main/adducts%20(nontarget).csv); [Adducts+MD](https://github.com/plyush1993/LC-MS-Cheet-Sheet/blob/main/Adducts.csv)<br/>
 **Neutral Loses:** [MS1FA&20Fiehn](https://github.com/plyush1993/MetaboCensoR/blob/main/neutral%20loss%20data%20(MS1FA%20%26%20Fiehn).csv)<br/>
 **Contaminants:** [POS](https://github.com/plyush1993/LC-MS-Cheet-Sheet/blob/main/Contaminants%20POS.csv); [NEG](https://github.com/plyush1993/LC-MS-Cheet-Sheet/blob/main/Contaminants%20NEG.csv); [`lc-ms.nl`](https://www.lc-ms.nl/contaminants.html)<br/>
 **Repeating Units:** [Repeating Units](https://github.com/plyush1993/LC-MS-Cheet-Sheet/blob/main/Repeating%20Units.csv)<br/>
