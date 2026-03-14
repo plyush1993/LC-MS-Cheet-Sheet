@@ -5,6 +5,7 @@
 
 ### Raw Data
 - El-Maven for target compound EIC among samples
+     - target list
 - Library Search EIC & Integration
 - Observe MS1/MS2/rt
 - Query for spectra search / *in-silico* prediction in qry4ms
@@ -16,14 +17,22 @@
 ### Downstream Analysis
 - Target Analysis
      - El-Maven
+          - target list
      - MzMine
-- Untargeted Analysis
+          - target list
+- Untargeted Analysis (several samples/replicates + blanks)
      - mzMine *(Peak Table & mgf Generating)*
      - MetaboCensoR *(Filtering Redundant Features in Peak Table & mgf)*
      - SIRIUS *(In-silico Identification, Fragment Annotation)*
      - GNPS *(Molecular Networking, Spectral Similarity Search)*
+          - metadata
      - Cytoscape *(Customize Networking, combine with SIRIUS)*
+- Untargeted Analysis (one sample only)
+     - SIRIUS *(In-silico Identification, Fragment Annotation)*
+     - GNPS *(Molecular Networking, Spectral Similarity Search)*
+          - metadata if with blank 
 - Statistical Analysis
+     - Prepare table for MetaboAnalyst
      - Univariate (MetaboAnalyst, Metabocano)
           - Volcano Plot
           - Statistical Tests for Comparing Means
