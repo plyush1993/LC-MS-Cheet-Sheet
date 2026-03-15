@@ -19,7 +19,7 @@
 ### Other Helpful Tools & Resources for MS:
 **Isotopic Pattern & Exact Mass Calculator:** [`qry4ms`](https://plyush1993.shinyapps.io/qry4ms/); [`EnviPat`](https://www.envipat.eawag.ch/index.php); [`ChemCalc`](https://www.chemcalc.org/?ionizations=&mf=); [`SisWeb`](https://www.sisweb.com/mstools/isotope.html); [`SisWeb`](https://www.sisweb.com/referenc/tools/exactmass.html); [`BMRB`](https://bmrb.io/metabolomics/mol_mass.php?formula=C6H12O6&subaction=Natural+Composition&updateIsoComp=1)<br/>
 **Adducts Calculator:** [`qry4ms`](https://plyush1993.shinyapps.io/qry4ms/); [`lc-ms.nl`](https://www.lc-ms.nl/adductcal.html); [`cdri.res.in`](https://plantmetabolome.cdri.res.in/public/frm_AductIonCalc.aspx)<br/>
-**Mass Error:** [`Warwick`](https://warwick.ac.uk/fac/sci/chemistry/research/barrow/barrowgroup/calculators/mass_errors/)<br/>
+**Mass Error:** [`qry4ms`](https://plyush1993.shinyapps.io/qry4ms/); [`Warwick`](https://warwick.ac.uk/fac/sci/chemistry/research/barrow/barrowgroup/calculators/mass_errors/)<br/>
 **Generate Formula based on Monoisotopic Mass:** [`qry4ms`](https://plyush1993.shinyapps.io/qry4ms/); [`ChemCalc`](https://www.chemcalc.org/mf-finder?integer=false&ionizations=&maxUnsaturation=999&minUnsaturation=0&nonInteger=false&precision=5000&range=C0-100%20H0-200%20N0-20%20O0-20&targetMass=); [`Cheminfo`](https://www.cheminfo.org/Spectra/Mass/MF_from_monoisotopic_mass_and_PubChem/index.html)<br/> 
 **Peak Assignment:** [`CFM-ID`](https://cfmid.wishartlab.com/assign)<br/>
 **Spectra Prediction:** [`CFM-ID`](https://cfmid.wishartlab.com/predict)<br/> 
