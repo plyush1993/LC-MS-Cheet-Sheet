@@ -40,6 +40,6 @@
           - Correlation Heatmaps
           - ANOVA (for multiple groups)
      - Multivariate (MetaboAnalyst)
-          - Classification Models (RF, SVM)
+          - Machine Learning (RF, SVM)
           - Chemometrics (PCA, PLS)
           - Cluster Analysis (Dendrogram, Heatmaps, *k*-means, SOM)
