@@ -11,7 +11,7 @@
 - Query for spectra search / *in-silico* prediction in qry4ms
 
 ### Identification
-- Spectral Similarity Search (GNPS, MEtaboAnalyst, etc)
+- Spectral Similarity Search (GNPS, MetaboAnalyst, etc)
 - *In-silico* prediction (SIRIUS, MS-Finder, etc)
 
 ### Downstream Analysis
