@@ -32,7 +32,7 @@
      - GNPS *(Molecular Networking, Spectral Similarity Search)*
           - metadata if with blank 
 - Statistical Analysis
-     - Prepare table for MetaboAnalyst
+     - Prepare table for MetaboAnalyst in OmniPeak
      - Univariate (MetaboAnalyst, Metabocano)
           - Volcano Plot
           - Statistical Tests for Comparing Means
