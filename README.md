@@ -8,10 +8,10 @@
 [`qry4ms`](https://plyush1993.shinyapps.io/qry4ms/); [*`El-Maven`*](https://github.com/ElucidataInc/ElMaven); [*`mzMine`*](https://mzio.io/mzmine-news/)
 
 ### Spectral Search:
-[`GNPS Fast Search`](https://fasst.gnps2.org/fastsearch/); [`MetaboAnalyst`](https://www.metaboanalyst.ca/MetaboAnalyst/upload/MS2UploadView.xhtml); [`MassBank`](https://massbank.eu/MassBank/); [`MoNA`](https://mona.fiehnlab.ucdavis.edu/spectra/search)
+[`GNPS Fast Search`](https://fasst.gnps2.org/fastsearch/); [`MetaboAnalyst`](https://www.metaboanalyst.ca/MetaboAnalyst/upload/MS2UploadView.xhtml); [`MassBank`](https://massbank.eu/MassBank/); [`MoNA`](https://mona.fiehnlab.ucdavis.edu/spectra/search); [`METLIN`](https://metlin.scripps.edu/fragment-similarity-search.html)
 
 ### Libraries:
-[`GNPS`](https://library.gnps2.org/); [`DeepMet`](https://deepmet.org/); [`MoNA`](https://mona.fiehnlab.ucdavis.edu/spectra/search); [`MassBank`](https://massbank.eu/MassBank/); [`HMDB`](https://hmdb.ca/spectra/ms/search); [`FOODB`](https://foodb.ca/spectra/ms/search); [`MiMeDB`](https://mimedb.org/spectra/ms/search); [`PhytoHub`](https://phytohub.eu/spectra/ms/search); [`RefMet`](https://www.metabolomicsworkbench.org/data/mb_mass_form.php); [`LipidMaps`](https://www.lipidmaps.org/databases/lmsd/overview)
+[`GNPS`](https://library.gnps2.org/); [`DeepMet`](https://deepmet.org/); [`MoNA`](https://mona.fiehnlab.ucdavis.edu/spectra/search); [`MassBank`](https://massbank.eu/MassBank/); [`HMDB`](https://hmdb.ca/spectra/ms/search); [`FOODB`](https://foodb.ca/spectra/ms/search); [`MiMeDB`](https://mimedb.org/spectra/ms/search); [`PhytoHub`](https://phytohub.eu/spectra/ms/search); [`RefMet`](https://www.metabolomicsworkbench.org/data/mb_mass_form.php); [`LipidMaps`](https://www.lipidmaps.org/databases/lmsd/overview); [`METLIN`](https://metlin.scripps.edu/simple-batch-precursor-ion-search.html)
 
 ### Statistics:
 [`Metabocano`](https://plyush1993.shinyapps.io/metabocano/); [`Metaboanalyst`](https://www.metaboanalyst.ca/MetaboAnalyst/upload/StatUploadView.xhtml)
