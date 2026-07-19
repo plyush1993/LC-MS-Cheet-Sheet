@@ -43,6 +43,7 @@
           - Machine Learning (RF, SVM)
           - Chemometrics (PCA, PLS)
           - Cluster Analysis (Dendrogram, Heatmaps, *k*-means, SOM)
+     - Pathway Analysis (MetaboAnalyst)
 
 </a><a >
 <img src="https://github.com/plyush1993/LC-MS-Cheet-Sheet/blob/main/LC-MS-Workshop/Levels.png" align="center" width="500" height="300">
