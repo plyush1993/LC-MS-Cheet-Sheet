@@ -16,6 +16,9 @@
 ### Statistics:
 [`Metabocano`](https://plyush1993.shinyapps.io/metabocano/); [`Metaboanalyst`](https://www.metaboanalyst.ca/MetaboAnalyst/upload/StatUploadView.xhtml)
 
+### GNPS MS tools:
+[`GNPS`](https://gnps2.org/homepage); [`MetaboApps`](https://apps.gnps2.org/)
+
 ### Other Helpful Tools & Resources for MS:
 **Isotopic Pattern & Exact/Monoisotopic Mass Calculator:** [`qry4ms`](https://plyush1993.shinyapps.io/qry4ms/); [`EnviPat`](https://www.envipat.eawag.ch/index.php); [`ChemCalc`](https://www.chemcalc.org/?ionizations=&mf=); [`SisWeb`](https://www.sisweb.com/mstools/isotope.html); [`SisWeb`](https://www.sisweb.com/referenc/tools/exactmass.html); [`BMRB`](https://bmrb.io/metabolomics/mol_mass.php?formula=C6H12O6&subaction=Natural+Composition&updateIsoComp=1)<br/>
 **Adducts Calculator:** [`qry4ms`](https://plyush1993.shinyapps.io/qry4ms/); [`lc-ms.nl`](https://www.lc-ms.nl/adductcal.html); [`cdri.res.in`](https://plantmetabolome.cdri.res.in/public/frm_AductIonCalc.aspx)<br/>
@@ -23,7 +26,7 @@
 **Generate Formula based on Monoisotopic Mass:** [`qry4ms`](https://plyush1993.shinyapps.io/qry4ms/); [`ChemCalc`](https://www.chemcalc.org/mf-finder?integer=false&ionizations=&maxUnsaturation=999&minUnsaturation=0&nonInteger=false&precision=5000&range=C0-100%20H0-200%20N0-20%20O0-20&targetMass=); [`Cheminfo`](https://www.cheminfo.org/Spectra/Mass/MF_from_monoisotopic_mass_and_PubChem/index.html)<br/> 
 **Peak Assignment:** [`CFM-ID`](https://cfmid.wishartlab.com/assign)(MS2); [*`SIRIUS`*](https://bio.informatik.uni-jena.de/software/sirius/)(MS2); [`Met-Frag`](https://msbi.ipb-halle.de/MetFrag/)(MS2); [*`MS-Finder`*](https://systemsomicslab.github.io/compms/msfinder/main.html)(MS2); [*`InterpretMSSpectrum`*](https://cran.r-project.org/web/packages/InterpretMSSpectrum/index.html)(MS1); [`qry4ms`](https://plyush1993.shinyapps.io/qry4ms/)(MS1)<br/>
 **Spectra Prediction:** [`CFM-ID`](https://cfmid.wishartlab.com/predict)<br/> 
-**Search MS Motifs:** [`MassQL`](https://gnps2.org/workflowinput?workflowname=massql_workflow); [`ms2lda`](https://www.ms2lda.org/)<br/> 
+**Search MS Motifs:** [`MassQL Playground`](https://apps.gnps2.org/massql_playground); [`MassQL PostMN`](https://massqlpostmn.gnps2.org/); [`MassQL SandBox`](https://massql.gnps2.org/); [`MassQL Compendium`](https://massql.gnps2.org/compendium/); [`ms2lda`](https://www.ms2lda.org/)<br/> 
 **Search & Identification in Spectra File:** [*`NIST`*](https://chemdata.nist.gov/dokuwiki/doku.php?id=start); [*`SIRIUS`*](https://bio.informatik.uni-jena.de/software/sirius/); [*`MS-Finder`*](https://systemsomicslab.github.io/compms/msfinder/main.html); [`GNPS FBMN`](https://gnps2.org/workflowinput?workflowname=feature_based_molecular_networking_workflow); [`GNPS CMN`](https://gnps2.org/workflowinput?workflowname=classical_networking_workflow); [`DreaMS`](https://huggingface.co/spaces/anton-bushuiev/DreaMS)<br/> 
 **Identification Tools:** [*`SIRIUS`*](https://bio.informatik.uni-jena.de/software/sirius/); [`CFM-ID`](https://cfmid.wishartlab.com/identify); [`DeepMet`](https://deepmet.org/); [`Met-Frag`](https://msbi.ipb-halle.de/MetFrag/); [*`MS-Finder`*](https://systemsomicslab.github.io/compms/msfinder/main.html)<br/> 
 **Adducts:** [nontarget](https://github.com/plyush1993/MetaboCensoR/blob/main/adducts%20(nontarget).csv); [Adducts+MD](https://github.com/plyush1993/LC-MS-Cheet-Sheet/blob/main/Adducts.csv)<br/>
