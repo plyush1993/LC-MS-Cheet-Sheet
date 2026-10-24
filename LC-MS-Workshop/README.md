@@ -18,10 +18,10 @@
 - Target Analysis
      - El-Maven
           - target list
-     - MzMine
+     - MzMine (or MS-DIAL, or xcms)
           - target list
 - Untargeted Analysis (several samples/replicates + blanks)
-     - mzMine *(Peak Table & mgf Generating)*
+     - mzMine (or MS-DIAL, or xcms) *(Peak Table & mgf Generating)*
      - MetaboCensoR *(Filtering Redundant Features in Peak Table & mgf)*
      - SIRIUS *(In-silico Identification, Fragment Annotation)*
      - GNPS *(Molecular Networking, Spectral Similarity Search)*
